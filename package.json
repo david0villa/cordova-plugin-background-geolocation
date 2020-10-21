@@ -1,11 +1,11 @@
 {
-  "name": "@mauron85/cordova-plugin-background-geolocation",
+  "name": "cordova-plugin-background-geolocation-10",
   "version": "3.1.0",
   "description": "Cordova Background Geolocation Plugin",
   "main": "./www/BackgroundGeolocation.js",
   "types": "./www/BackgroundGeolocation.d.ts",
   "cordova": {
-    "id": "@mauron85/cordova-plugin-background-geolocation",
+    "id": "@david0villa/cordova-plugin-background-geolocation",
     "platforms": [
       "android",
       "ios"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauron85/cordova-plugin-background-geolocation.git"
+    "url": "git+https://github.com/david0villa/cordova-plugin-background-geolocation.git"
   },
   "keywords": [
     "gps",
@@ -41,7 +41,10 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/mauron85/cordova-plugin-background-geolocation/issues"
+    "url": "https://github.com/david0villa/cordova-plugin-background-geolocation/issues"
   },
-  "homepage": "https://github.com/mauron85/cordova-plugin-background-geolocation#readme"
+  "homepage": "https://github.com/david0villa/cordova-plugin-background-geolocation#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
